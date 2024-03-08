@@ -115,4 +115,4 @@
 // }
 // }
 // console.log(total/cnt)
-
+console.log(9);
